@@ -1,2 +1,0 @@
-# BengalaIoT
-Contest Qualcomm
